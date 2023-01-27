@@ -1,2 +1,7 @@
-manchuria
+<<<<<<< HEAD
+
 gobi
+=======
+kutlet
+
+>>>>>>> 410480bfa7051ae597842f5147d5369478f7dd4d
