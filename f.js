@@ -1,4 +1,0 @@
-Veeraiah
-Veereswari
-Deepthi
-Swetha
